@@ -10,3 +10,5 @@
                            d --> Diminui a posição
                            z --> Zera a posição
                            m --> Salva a posição na memória do CI
+                           
+![image](https://user-images.githubusercontent.com/23614860/140981104-00cf2460-a4bb-45ab-a08d-13d7f0b2c438.png)
